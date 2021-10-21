@@ -15,12 +15,13 @@ body {
 body {
     display: grid;
     place-items: center;
+    background-image: linear-gradient(#ff008c85, #fcab14ec)
 }
 
 main {
     background: url(images/background.svg);
     width: 375px;
-    height: 812px;
+    height: 714px;
 }
 
 .container {
