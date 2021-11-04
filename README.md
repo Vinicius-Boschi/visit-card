@@ -1,2 +1,2 @@
-Para ver o cartão de visita, acesse esse link abaixo:
-visitcards.netlify.app/
+Para ver o cartão de visita, acesse esse link abaixo.
+https://visitcards.netlify.app/
